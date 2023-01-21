@@ -46,11 +46,16 @@
 #####     -Framework: <img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
   
 ## ✨ BackJoon_solved ✨
-  
-<a href="https://solved.ac/yesupgrade" rel="nofollow"><img src="https://camo.githubusercontent.com/b174e5b2a06f8c5806b51102943c94fc965aa6252a3dd45bd358383243e315ff/687474703a2f2f6d617a617373756d6e6964612e7774662f6170692f76322f67656e65726174655f62616467653f626f6a3d79796a31393939" alt="Solved.ac Profile" data-canonical-src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yesupgrade" style="width:400px;"></a>
-<img src="http://mazandi.herokuapp.com/api?handle=yesupgrade&theme=dark" style="width:400px" />
+<div align="center">
 
-<br><br><br>
+![dokky's GitHub stats](https://github-readme-stats.vercel.app/api?username=yesupgrade&show_icons=true&theme=radical)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yesupgrade)](https://solved.ac/yesupgrade/)
+  <img src="http://mazandi.herokuapp.com/api?handle=yesupgrade&theme=dark" style="width:350px" />
+  
+</div>
+
+
 
 
 
