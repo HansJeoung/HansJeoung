@@ -8,8 +8,8 @@
 # 🌱 Work and Experience
 #####     1. SL-Alabama(Hyundai Motor's 1st supplier): Accounting/Financial Department, USA-Internship(2021.01~2022.01)
 ###
-# 🤔 Computer Language Skill
-#####     1. Python
+# 🤔 Things I code with
+#####     1. Python(sklearn, tf)
 #####     2. SQL
 ###
 # 📫 My Field of Study
@@ -17,16 +17,13 @@
 #####     2. Credit Risk of Business and Personal 
 #####     3. Financial Data
 ###
-# 📫 Certificate
-#####
-###
-# 📫 Contest
+# 📫 Achievements
 #####
 ### 
 # 📫 Tech Blog
 #####  링크
 
-# 📫 My Contact: yes-upgrade@naver.com
+# 📫 Contact: yes-upgrade@naver.com
 
 
 
