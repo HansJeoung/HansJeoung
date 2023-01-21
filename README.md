@@ -12,18 +12,26 @@
 #####     1. Python(sklearn, tf)
 #####     2. SQL
 ###
-# 📫 My Field of Study
+# 🔥 My Field of Study
 #####     1. CSS(Credit Scoring System) Model
 #####     2. Credit Risk of Business and Personal 
 #####     3. Financial Data
 ###
-# 📫 Achievements
-#####
-### 
+# 💡 Achievements
+| Plugin | README |
+| ------ | ------ |
+| Tech Blog | [https://blog.naver.com/passsssssss] |
+| GitHub | [plugins/github/README.md][PlGh] |
+| Google Drive | [plugins/googledrive/README.md][PlGd] |
+| OneDrive | [plugins/onedrive/README.md][PlOd] |
+| Medium | [plugins/medium/README.md][PlMe] |
+| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
 # 📫 Tech Blog
 #####  링크
 
 # 📫 Contact: yes-upgrade@naver.com
+
+
 
 
 
