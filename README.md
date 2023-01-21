@@ -9,8 +9,8 @@
 #####     - SL-Alabama(Hyundai Motor's 1st supplier): Accounting/Financial Department, USA-Internship(2021.01~2022.01)
 ###
 # 🤔 Things I code with
-#####     - Python(sklearn, tf)
-#####     - SQL
+#####     -Programming: <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+#####     -Framework: <img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
 ###
 # 🔥 My Field of Study
 #####     - CSS(Credit Scoring System) Model
@@ -25,11 +25,11 @@
 # ✨ Tech Blog
 | Blog | Link |
 | :------: | :------: |
-| Tech Blog | Click [here]![naver_icon](https://user-images.githubusercontent.com/112921402/213864430-1bdc308c-eb22-4543-8f23-f869205122ac.png)
-(https://blog.naver.com/passsssssss)|
+| Tech Blog | Click [here](https://blog.naver.com/passsssssss)|
 
 
 # 📫 Contact: yes-upgrade@naver.com
+
 
 
 
