@@ -8,16 +8,15 @@
 ## 🌱 Work and Experience
 #####     - SL-Alabama(Hyundai Motor's 1st supplier): Accounting/Financial Department, USA-Internship(2021.01~2022.01)
 ###
+## 💡 Achievements(Project, Certificate etc...)
+| Content | Upload Date |
+| :------: | :------: |
+| 1 | [여기에 링크 넣기] | 
 ## 🔥 My Field of Study
 #####     - CSS(Credit Scoring System) Model
 #####     - Credit Risk of Business and Personal 
 #####     - Financial Data
 ###
-## 💡 Achievements(Project, Certificate etc...)
-| Content | Upload Date |
-| :------: | :------: |
-| 1 | [여기에 링크 넣기] | 
-
 ## ✨ Tech Blog
 | Blog | Link |
 | :------: | :------: |
