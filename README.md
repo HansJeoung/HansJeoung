@@ -2,32 +2,32 @@
 ####     I will give you the best Business Analysis based on the data.
 ###  
 # 🔭 Education
-#####     1. 경영학사[Bachelor of Business Administration in Management(2016.03~2022.08)]
-#####     2. 석사과정[Master's Course of Business Analysis(2022.08~)]
+#####     - 경영학사[Bachelor of Business Administration in Management(2016.03~2022.08)]
+#####     - 석사과정[Master's Course of Business Analysis(2022.08~)]
 ###
 # 🌱 Work and Experience
-#####     1. SL-Alabama(Hyundai Motor's 1st supplier): Accounting/Financial Department, USA-Internship(2021.01~2022.01)
+#####     - SL-Alabama(Hyundai Motor's 1st supplier): Accounting/Financial Department, USA-Internship(2021.01~2022.01)
 ###
 # 🤔 Things I code with
-#####     1. Python(sklearn, tf)
-#####     2. SQL
+#####     - Python(sklearn, tf)
+#####     - SQL
 ###
 # 🔥 My Field of Study
-#####     1. CSS(Credit Scoring System) Model
-#####     2. Credit Risk of Business and Personal 
-#####     3. Financial Data
+#####     - CSS(Credit Scoring System) Model
+#####     - Credit Risk of Business and Personal 
+#####     - Financial Data
 ###
-# 💡 Achievements
-| Plugin | README |
-| ------ | ------ |
-| Tech Blog | [https://blog.naver.com/passsssssss] |
-| GitHub | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
-# 📫 Tech Blog
-#####  링크
+# 💡 Achievements(Project, Certificate etc...)
+| Content | Upload Date |
+| :------: | :------: |
+| 1 | [여기에 링크 넣기] | 
+
+# ✨ Tech Blog
+| Blog | Link |
+| :------: | :------: |
+| Tech Blog | Click [here]![naver_icon](https://user-images.githubusercontent.com/112921402/213864430-1bdc308c-eb22-4543-8f23-f869205122ac.png)
+(https://blog.naver.com/passsssssss)|
+
 
 # 📫 Contact: yes-upgrade@naver.com
 
