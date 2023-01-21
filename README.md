@@ -48,6 +48,9 @@
 ## ✨ BaekJoon_solved ✨
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yesupgrade)](https://solved.ac/yesupgrade/)
+<img src="http://mazandi.herokuapp.com/api?handle=yesupgrade&theme=dark" style="width:350px" />
+
+
 
 
 
