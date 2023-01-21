@@ -1,5 +1,5 @@
-## 👋 Self-Introduction
-####     I will give you the best Business Analysis based on the data.
+## 👋 Start
+####     Just do it.
 ###  
 ## 🔭 Education
 #####     - 경영학사[Bachelor of Business Administration in Management(2016.03~2022.08)]
