@@ -39,7 +39,7 @@
 #####     -Programming: <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 #####     -Framework: <img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
   
-## ✨ BaekJoon_solved(Coding practice) ✨
+## ✨ BaekJoon_solved(Coding Practice) ✨
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yesupgrade)](https://solved.ac/yesupgrade/)
 <img src="http://mazandi.herokuapp.com/api?handle=yesupgrade&theme=dark" style="width:350px" />
