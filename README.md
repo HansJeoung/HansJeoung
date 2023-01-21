@@ -1,12 +1,38 @@
-### Hi there 👋
+# 👋 Self-Introduction
+####     I will give you the best Business Analysis based on the data.
+###  
+# 🔭 Education
+#####     1. 경영학사[Bachelor of Business Administration in Management(2016.03~2022.08)]
+#####     2. 석사과정[Master's Course of Business Analysis(2022.08~)]
+###
+# 🌱 Work and Experience
+#####     1. SL-Alabama(Hyundai Motor's 1st supplier): Accounting/Financial Department, USA-Internship(2021.01~2022.01)
+###
+# 🤔 Computer Language Skill
+#####     1. Python
+#####     2. SQL
+###
+# 📫 My Field of Study
+#####     1. CSS(Credit Scoring System) Model
+#####     2. Credit Risk of Business and Personal 
+#####     3. Financial Data
+###
+# 📫 Certificate
+#####
+###
+# 📫 Contest
+#####
+### 
+# 📫 Tech Blog
+#####  링크
 
-<!--
-**HansJeoung/HansJeoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 📫 My Contact: yes-upgrade@naver.com
 
-Here are some ideas to get you started:
 
-- 🔭 I'm a master's course student(2022.08~2024.08).
-- 🌱 I'm currently learning business analysis(Biztics) in a master's course.
-- 🤔 I’m looking for help with github.
-- 📫 My Contact: yes-upgrade@naver.com
-- 📫 My field of interest: CSS(Credit Scoring System) Model, Credit Risk of Business and Personal, Financial Data.
+
+
+
+
+
+
+
