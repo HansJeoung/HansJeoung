@@ -28,7 +28,7 @@
 #####     - Credit Risk of Business and Personal 
 #####     - Financial Data
 ###
-## ✨ Tech Blog
+## ✨ Tech Blog 
 | Blog | Link |
 | :------: | :------: |
 | Tech Blog |[![naver_icon](https://user-images.githubusercontent.com/112921402/213866755-b8f9b75e-918c-400f-9596-01a375d820a4.png)](https://blog.naver.com/passsssssss)|
