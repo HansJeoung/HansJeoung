@@ -22,7 +22,7 @@
 ## 💡 Achievements(Project, Certificate etc...)
 | Content | Upload Date |
 | :------: | :------: |
-| 1 | English Speaking(OPic)=>IH | 
+| 1 | English Speaking(OPic)=>IH(2023.02.26~2025.02.25) | 
 ## 🔥 My Field of Study
 #####     - CSS(Credit Scoring System) Model
 #####     - Credit Risk of Business and Personal 
