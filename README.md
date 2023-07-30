@@ -18,7 +18,8 @@
 ###
 ## 🌱 Work and Experience
 #####     - SL-Alabama(Hyundai Motor's 1st supplier): Accounting/Financial Department, USA-Internship(2021.01~2022.01)
-###
+#####     - 영남대 AI/SW 트랙 강의(2023.07~2023.08)
+#####     - 울산 성광여고 인공지능 기초교육 강의(2023.08~2023.12)
 ## 💡 Achievements(Project, Certificate etc...)
 | Content | Upload Date |
 | :------: | :------: |
