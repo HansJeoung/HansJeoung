@@ -18,7 +18,7 @@
 ###
 ## 🌱 Work and Experience
 #####     - 현대백화점 문화교육센터 강의 보조 및 사무 보조 (2018.12~2020.05)
-#####     - SL-Alabama(Hyundai Motor's 1st supplier): Accounting/Financial Department, USA-Internship(2021.01~2022.01)
+#####     - SL-Alabama(Hyundai Motor's 1-Tier supplier): Accounting/Financial Department, USA-Internship(2021.01~2022.01)
 #####     - 영남대 AI/SW 트랙 강의(2023.07~2023.08)
 #####     - 울산 성광여고 인공지능 기초교육 강의(2023.08~2023.12)
 #####     - AICP: Conditional Auto Encoder을 이용한 주식 매매 전략 프로젝트(2023.04~2023.11)
