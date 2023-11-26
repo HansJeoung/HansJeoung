@@ -26,6 +26,7 @@
 | Content | Upload Date |
 | :------: | :------: |
 | 1 | English Speaking(OPic)=>IH(2023.02.26~2025.02.25) | 
+| 2 | AICP CONTEST - Favoriate Prize(Popularity Award, 현장투표 인기상) |
 ## 🔥 My Field of Study
 #####     - CSS(Credit Scoring System) Model
 #####     - Credit Risk of Business and Personal 
