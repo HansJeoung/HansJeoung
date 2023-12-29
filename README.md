@@ -25,7 +25,7 @@
 ## 💡 Achievements(Project, Certificate etc...)
 | Content | Upload Date |
 | :------: | :------: |
-| 1 | English Speaking(OPic)=>IH(2023.02.26~2025.02.25) | 
+| 1 | English Speaking(OPic): IH(2023.02.26~2025.02.25) | 
 | 2 | AICP(AI) CONTEST - Favorite Prize(Popularity Award, 현장투표 인기상) | 
 | 3 | 빅데이터분석기사 |
 ## 🔥 My Field of Study
